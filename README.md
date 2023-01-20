@@ -9,3 +9,5 @@
 
 1. create a server in the `index.ts` file
 2. write the logic in the `controllers` folder (`user.ts` file)
+
+## Screenshots
