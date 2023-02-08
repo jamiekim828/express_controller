@@ -8,6 +8,6 @@
 ## Requirements
 
 1. create a server in the `index.ts` file
-2. write the logic in the `controllers` folder (`user.ts` file)
+2. write the logic in the `controllers` folder: `user.ts`, `product.ts` and `order.ts` file)
 
 ## Screenshots
