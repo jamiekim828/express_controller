@@ -17,3 +17,5 @@ const port = 8000;
 app.listen(port, () => {
   console.log('yes! server is running');
 });
+
+export default app;
